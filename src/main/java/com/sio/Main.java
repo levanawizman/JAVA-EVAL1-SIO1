@@ -70,6 +70,7 @@ public class Main {
                     }
 
                     System.out.println("Le montant à payer par le client est : " + frais + " €");
+                    break;
                 case 3:
 
                     System.out.println("---------------------------------------------");
